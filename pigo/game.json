@@ -1,0 +1,22 @@
+{
+    "id": "com.pigo.opentyrian",
+    "title": "OpenTyrian",
+    "description": "",
+    "main_image": "opentyrian.png",
+    "small_image": "opentyrian.png",
+    "dirname": "opentyrian",
+    "executable": "start.sh",
+    "requirements": [],
+    "last_start": null,
+    "playtime": 0,
+    "is_installed": false,
+    "rating": null,
+    "size": "104",
+    "tags": ["console"],
+    "deletable": true,
+    "keymap": "UP=KEY_UP DOWN=KEY_DOWN LEFT=KEY_LEFT RIGHT=KEY_RIGHT A=KEY_SPACE B=KEY_ENTER X=KEY_LEFTCTRL Y=KEY_LEFTALT Y=KEY_LEFTALT R1=KEY_ESC",
+    "screenshots":
+    [
+        "opentyrian.png"
+    ]
+}
